@@ -23,7 +23,7 @@
 #include "Appender.h"
 #include "Logger.h"
 #include <stdarg.h>
-#include <boost/asio/io_service.hpp>
+#include <boost/asio/io_context.hpp>
 #include <boost/asio/strand.hpp>
 
 #include <unordered_map>

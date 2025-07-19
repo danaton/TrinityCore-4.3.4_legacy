@@ -22,7 +22,6 @@
 
 #include "Common.h"
 #include "Commands.h"
-#include "ZmqContext.h"
 #include "DatabaseEnv.h"
 #include "AsyncAcceptor.h"
 #include "RASession.h"
