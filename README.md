@@ -1,10 +1,5 @@
 # ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
 
-[![Coverity Scan Build Status](https://scan.coverity.com/projects/435/badge.svg)](https://scan.coverity.com/projects/435) 
-[![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=1310)](https://www.bountysource.com/trackers/1310-trinity-core?utm_source=1310&utm_medium=shield&utm_campaign=TRACKER_BADGE)  
-`3.3.5`: [![3.3.5 Build Status](https://travis-ci.org/TrinityCore/TrinityCore.svg?branch=master)](https://travis-ci.org/TrinityCore/TrinityCore)
-`4.3.4`: [![4.3.4 Build Status](https://travis-ci.org/TrinityCore/TrinityCore.svg?branch=4.3.4)](https://travis-ci.org/TrinityCore/TrinityCore)
-
 ## Introduction
 
 TrinityCore is a *MMORPG* Framework based mostly in C++.
@@ -26,10 +21,10 @@ website at [TrinityCore.org](http://www.trinitycore.org).
 
 + Platform: Linux, Windows or Mac
 + Processor with SSE2 support
-+ Boost ≥ 1.49
-+ MySQL ≥ 5.1.0
-+ CMake ≥ 2.8.11.2 / 2.8.9 (Windows / Linux)
-+ OpenSSL ≥ 1.0.0
++ Boost ≥ 1.49 ??
++ MySQL ≥ 8.0
++ CMake ≥ 3.31.1 (Windows / Linux)
++ OpenSSL ≥ 3.0.0
 + GCC ≥ 4.7.2 (Linux only)
 + MS Visual Studio ≥ 12 (2013) (Windows only)
 
